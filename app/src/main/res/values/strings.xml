@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YaBesco.ru</string>
+    <string name="widget_name">BescoTempWidget</string>
+    <string name="settings">Настройки.</string>
+    <string name="change_url">Выбор сервера</string>
+
+    <string name="btn_ok">Окай</string>
+    <string name="btn_cancel">Отмена</string>
+
+    <string-array name="urls">
+        <item>https://yabesco.ru/webdata.php</item>
+        <item>http://yartemp.com/webdata/</item>
+    </string-array>
+
+    <string name="site_URL">https://yabesco.ru</string>
+    <string name="first_URL">https://yabesco.ru/webdata.php</string>
+    <string name="celsius">°</string>
+
+    <string name="network_error">Нет подключения к сети</string>
+</resources>
